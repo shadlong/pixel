@@ -1,5 +1,5 @@
 import {useEffect}from "react";
-import "../ComponentStyle/Section1.css"
+import "../Component/Section1.css"
 import video from "../assets/phone_video.mp4"
 import gsap from "gsap";
 

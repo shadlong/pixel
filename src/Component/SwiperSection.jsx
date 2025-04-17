@@ -2,14 +2,14 @@ import { useEffect, useRef, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
-import "../ComponentStyle/SwiperSection.css"
+import "../Component/SwiperSection.css"
 import { Navigation, Pagination } from 'swiper/modules';
-import Swiper1 from "../assets/swiper1 1.png"
-import Swiper2 from "../assets/swiper2 1.png"
-import Swiper3 from "../assets/swiper3 1.png"
-import Swiper4 from "../assets/swiper4 1.png"
-import Swiper5 from "../assets/swiper5 1.png"
-import Swiper6 from "../assets/swiper6 1.png"
+import Swiper1 from "../assets/gambar1.png"
+import Swiper2 from "../assets/gambar2.png"
+import Swiper3 from "../assets/gambar3.png"
+import Swiper4 from "../assets/gambar4.png"
+import Swiper5 from "../assets/gambar5.png"
+import Swiper6 from "../assets/gambar6.png"
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/src/ScrollTrigger';
 
